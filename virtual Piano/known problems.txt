@@ -1,0 +1,3 @@
+1.repeating keys doesn't gets clicked or pressed
+2.Font size and over all display is bad
+3.no press or clicked animation
