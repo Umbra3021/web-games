@@ -1,27 +1,60 @@
 body{
-    background-image: url('wooden');    
+    background-image: url('wooden.jpg');    
+}
+
+
+h1{
+    font-size: 70px;
+    color: #DBEDF3;
+    text-shadow: 2px 2px red;
+}
+
+h2{
+    font-size: 30px;
+    color: blue;
+    text-shadow:2px 2px rgb(107, 229, 209);
+}
+p{
+    font-size: 25px;
+    
 }
 
 
 .top{
 
     text-align: center;
-    padding: 3% 0;
 }
 
 .middle{
-    font-size: 0;
-    padding-top: 2%;
-    text-align: center;
+   
+    height: 400px;
+    margin: 0% 3%;
 }
 
 .bottom{
+
     text-align: center;
 }
+
+.bg{
+    font-size: 0;
+    padding-top: 5%;
+    text-align: center;
+}
+
+.controls{
+
+    background-color: #DBEDF3;
+    margin: 2% 20%;
+    opacity: 70%;
+}
+
 
 
 button{
     text-align: center;
+    border-color: black;
+    
 }
 
 .a ,.b ,.c ,.d ,.e, .f ,.g{
@@ -37,6 +70,7 @@ button{
 
 .k, .l, .i ,.o ,.j{
 
+    border-color: grey;
     position: absolute;
     height: 100px;  
     width: 40px;
